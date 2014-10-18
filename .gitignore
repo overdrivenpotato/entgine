@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
+CMakeLists.txt
 
 # Compiled Object files
 *.slo
